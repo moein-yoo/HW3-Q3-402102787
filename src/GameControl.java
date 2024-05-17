@@ -6,6 +6,10 @@ import java.util.regex.Pattern;
 
 //for soroush
 //for having nice project over java and github
+
+//egiuj
+//gejovijoiv
+//gjvjgk
 public class GameControl extends Menu{
     public GameControl (ArrayList<User> users , User userInUse,int index) {
         super(users,userInUse,index);
