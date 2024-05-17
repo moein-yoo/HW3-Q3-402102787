@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 
 //egiuj
 //gejovijoiv
-//gjvjgkvd
+//gjvjgkvd moein
 public class GameControl extends Menu{
     public GameControl (ArrayList<User> users , User userInUse,int index) {
         super(users,userInUse,index);
